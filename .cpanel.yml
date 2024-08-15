@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/kaedenok/mangamint.kaedenoki.net/mangamint/
+    - export DEPLOYPATH=/home/manga-api-nine-chi.vercel.app/
     - /bin/cp -R * $DEPLOYPATH
